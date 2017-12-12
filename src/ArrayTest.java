@@ -6,8 +6,8 @@ public class ArrayTest {
 
         ArrayComparator ac= new ArrayComparator();
 
-        int[][] tab1 = new int[4][];
-        tab1[0] = new int[]{1,2,3,4};
+        int[][] tab1 = new int[3][];
+        tab1[0] = new int[]{1,2,3,5};
         tab1[1] = new int[]{1,2,3,4};
         tab1[2] = new int[]{1,2,3,4};
 
